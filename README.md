@@ -11,7 +11,7 @@ I specialize in Front End Web Engineer & Blockchain Engineer. Currently, I am op
     <td style="border: none;"><img src="https://cdn.iconscout.com/icon/free/png-64/react-3-1175109.png" width="90"> React</td> 
     <td style="border: none;"><img src="https://cdn.iconscout.com/icon/free/png-64/node-js-1174925.png" width="90"> Node.js</td>
     <td style="border: none;"><img src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png" width="90"> Python</td>  
-    <td style="border: none;"><img src="https://cdn.iconscout.com/icon/free/png-64/visualstudio-1-1174964.png" width="90"> C/C++ </td>                
+    <td style="border: none;"><img src="https://cdn.iconscout.com/icon/free/png-64/javascript-2752148-2284965.png" width="90"> Javascript </td>                
    </tr>
   </table>
 ### About Me:
