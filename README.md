@@ -16,12 +16,5 @@ I specialize in Front End & Little Back End work Mainly from Vue. I have coded i
     <td style="border: none;"><img src="https://cdn.iconscout.com/icon/free/png-64/vue-282497.png" width="90"> VueJs / Vue </td> 
    </tr>
   </table>
-  
-### About Me:
- <summary><strong>What i am learning/working on these days</strong></summary>
-  - 🔭 I currently work as a Full Stack Web Engineer </br>
-  - 📱 I also worked on and studied about Blockchain </br>
-  - 🌱 I'm currently exploring the world of Solana </br>
-  - 🌎 Deploying web app to server and manage database <br/>
-  - 💬 Ask me about anything. </br>
-  - ⚡ Fun facts: ... </br>
+ 
+ # Thats all So far
