@@ -5,8 +5,8 @@
  Beyond The World With Coding<br>
 </p>
 
-# Hi there 👋 , I'm a Top dev!
-I specialize in Front End Web Engineer & Blockchain Engineer. Currently, I am open to any opportunity, especially in IT as a Web Developer and Mobile Developer. I also make plugin for open source, you can check on npm package and composer package with prefix @aacassandra. I hope it will be of use to many people.
+# Hi there 👋 , I'm Jacob
+I specialize in Front End & Little Back End work Mainly from Vue. I have coded in Other Coding languages to Like React, Python, Node, and Javascript a little bit of C#
 <table style="border-size:0px">
   <tr >
     <td style="border: none;"><img src="https://cdn.iconscout.com/icon/free/png-64/react-3-1175109.png" width="90"> React</td> 
@@ -16,6 +16,7 @@ I specialize in Front End Web Engineer & Blockchain Engineer. Currently, I am op
     <td style="border: none;"><img src="https://cdn.iconscout.com/icon/free/png-64/vue-282497.png" width="90"> VueJs / Vue </td> 
    </tr>
   </table>
+  
 ### About Me:
  <summary><strong>What i am learning/working on these days</strong></summary>
   - 🔭 I currently work as a Full Stack Web Engineer </br>
